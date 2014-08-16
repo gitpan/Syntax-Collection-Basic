@@ -22,9 +22,11 @@ no_index:
     - eg
     - examples
 requires:
-  perl: '5.008005'
+  Modern::Perl: '1.20140107'
+  Syntax::Collector: '0.005'
+  perl: '5.010'
 resources:
   bugtracker: https://github.com/Csson/syntax-collection-basic/issues
   homepage: https://github.com/Csson/syntax-collection-basic
   repository: https://github.com/Csson/syntax-collection-basic.git
-version: '0.01'
+version: '0.02'
