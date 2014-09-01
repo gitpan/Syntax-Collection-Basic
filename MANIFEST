@@ -9,5 +9,6 @@ README
 cpanfile
 dist.ini
 lib/Syntax/Collection/Basic.pm
+lib/Syntax/Collection/Moose.pm
 t/basic.t
 t/release-pod-syntax.t
