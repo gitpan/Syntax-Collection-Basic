@@ -1,5 +1,8 @@
 Revision history for Syntax-Collection-Basic
 
+0.05  2014-09-02 23:58:19 CEST
+	- Fix missing dependencies
+
 0.04  2014-09-01 18:52:13 CEST
 	- Documentation and dependencies
 	
